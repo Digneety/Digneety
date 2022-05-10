@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/digneety" target="blank"><img src="https://img.shields.io/twitter/follow/digneety?logo=twitter&style=for-the-badge" alt="digneety" /></a> </p>
 
-- 🌱 I’m currently learning devloping **Hearts of Iron Mods**
+- 🌱 I’m currently learning devloping **Unreal Engine 5**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
