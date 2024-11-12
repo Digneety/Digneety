@@ -22,11 +22,11 @@
 			height="30"
 			width="40"
 	/></a>
-	<a href="https://discord.gg/dB7Ce2mCgv" target="blank"
+	<a href="https://discord.gg/dignity" target="blank"
 		><img
 			align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-			alt="dB7Ce2mCgv"
+			alt="dignity"
 			height="30"
 			width="40"
 	/></a>
